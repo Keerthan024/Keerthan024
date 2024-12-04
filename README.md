@@ -1,4 +1,3 @@
-[![MasterHead](https:[//1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://www.google.com/imgres?q=web%20developer%20github%20banner&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F107936455%2F203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif&imgrefurl=https%3A%2F%2Fgithub.com%2Franjankumar9&docid=LVcwq51gd672MM&tbnid=d1C79WuL-DpeFM&vet=12ahUKEwirktWQmI6KAxVDR2wGHY-tBcsQM3oECBwQAA..i&w=1920&h=590&hcb=2&ved=2ahUKEwirktWQmI6KAxVDR2wGHY-tBcsQM3oECBwQAA))
 <h1 align="center">Hi 👋, I'm Keerthan A</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
