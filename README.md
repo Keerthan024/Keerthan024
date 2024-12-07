@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keerthan024" alt="keerthan024" /></a> </p>
 
-- 🔭 I’m currently working on **EcoCart**
+- 🔭 I’m currently working on **Somthing Cool**
 
 - 🌱 I’m currently learning **React.js, Express**
 
