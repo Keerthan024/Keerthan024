@@ -14,10 +14,6 @@
 <h3 align-"left">📜Languages and frameworks</h3>
 
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Keerthan024)
-[![Tailwind](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwind)](https://github.com/Keerthan024)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Keerthan024)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Keerthan024)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Keerthan024)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Keerthan024)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Keerthan024)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Keerthan024)
