@@ -19,7 +19,7 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Keerthan024)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Keerthan024)
 [![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)](https://github.com/Keerthan024)
-[![React](https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react)](https://github.com/Keerthan024)
+[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://github.com/Keerthan024)
 [![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Keerthan024)
 [![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Keerthan024)
 [![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/Keerthan024)
