@@ -51,7 +51,7 @@
   </a>
     <br/>
   <a href="https://github.com/Keerthan024">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Keerthan024r&show_icons=true&locale=en&theme=dark" alt="Keerthan024" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Keerthan024&show_icons=true&locale=en&theme=dark" alt="Keerthan024" />
   </a>
 <br>
 <a href="https://github.com/Keerthan024">
