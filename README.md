@@ -25,7 +25,7 @@
 [![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/Keerthan024)
 <h3 align-"left">⚒️ Building my skills on</h3>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Keerthan A)
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/PmfY2qFRT6/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/keerthann004)
 
 
