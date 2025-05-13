@@ -1,85 +1,58 @@
 <html>
   <body>
-    <h1 align="center">Hi 👋 I'm Keerthan A</h1>
-    <h3 align="center">Passionate AI & Full Stack Developer from India</h3>
-    
-    <p align="center">
-      <a href="https://www.linkedin.com/in/keerthan0024/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-      <a href="mailto:keerthancontact@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-      </a>
-      <a href="https://leetcode.com/PmfY2qFRT6/">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-      </a>
-      <a href="https://www.hackerrank.com/profile/keerthann004">
-        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-      </a>
-    </p>
+    <h1 align="center">Hi 👋 I am Keerthan A</h1>
+    <h3 align="center">I am an aspiring student from India interested in Artificial Intelligence and Full Stack Web development</h3>
+    <p align="center"> <a href="https://www.linkedin.com/in/keerthan0024/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Keerthan" /></a> </p>
 
-    <div align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG"/>
-    </div>
+- 🪴 I’m currently learning ♦️ Somthing Cool ♦️
 
-    <h2>🌱 Currently Learning</h2>
-    <p>♦️ Advanced AI/ML Concepts ♦️ Cloud Computing ♦️ System Design ♦️</p>
+- 🗨️ Ask me about ♦️ Full Stack Web Development | Artificial Intelligence ♦️
 
-    <h2>💼 Technical Skills</h2>
-    <h3>Frontend</h3>
-    <p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    </p>
+- 📫 Reach me at keerthancontact@gmail.com
 
-    <h3>Backend</h3>
-    <p>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    </p>
+- 💡 Drink a lot of water ♦️ Hydration check ♦️
+<h3 align-"left">📜Languages and frameworks</h3>
 
-    <h3>Databases</h3>
-    <p>
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    </p>
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Keerthan024)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Keerthan024)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Keerthan024)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Keerthan024)
+[![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)](https://github.com/Keerthan024)
+[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://github.com/Keerthan024)
+[![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Keerthan024)
+[![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Keerthan024)
+[![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/Keerthan024)
+<h3 align-"left">⚒️ Building my skills on</h3>
 
-    <h3>Other Technologies</h3>
-    <p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-    </p>
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/PmfY2qFRT6/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/keerthann004)
 
-    <h2>📊 GitHub Stats</h2>
-    <div align="center">
-      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Keerthan024&show_icons=true&theme=dark"/>
-      <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthan024&theme=dark"/>
-      <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Keerthan024&theme=react-dark&bg_color=0D1117&hide_border=true"/>
-      <img src="https://github-profile-trophy.vercel.app/?username=Keerthan024&theme=onedark&no-frame=true&row=1&margin-w=15&margin-h=15"/>
-    </div>
 
-    <h2>🐍 Contribution Graph</h2>
-    <div align="center">
-      <img src="https://raw.githubusercontent.com/Keerthan024/Keerthan024/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-    </div>
+<h3 align-"left">🤝My Current Partner(IDE)</h3>
 
-    <h2>📫 Let's Connect</h2>
-    <p align="center">
-      <a href="https://www.linkedin.com/in/keerthan0024/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-      <a href="mailto:keerthancontact@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-      </a>
-    </p>
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/Keerthan024)
 
-    <div align="center">
-      <p>Visitor count</p>
-      <img src="https://profile-counter.glitch.me/Keerthan024/count.svg" alt="Visitor Count"/>
-    </div>
-  </body>
-</html>
+<h3 align-"left">🧑‍💻OS</h3>
+
+![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
+
+<h3 align-"left">🔥My Stats</h3>
+<p align="center">
+  <a href="https://github.com/Keerthan024">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keerthan024&theme=algolia" />
+  </a>
+<!--   <a href="https://github.com/Keerthan024">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthan024&hide_border=true&card_width=338&theme=dark" />
+  </a> -->
+  <br/>
+  <a href="https://github.com/Keerthan024">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keerthan024&theme=dark" />
+  </a>
+    <br/>
+  <a href="https://github.com/Keerthan024">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Keerthan024&show_icons=true&locale=en&theme=dark" alt="Keerthan024" />
+  </a>
+<br>
+<a href="https://github.com/Keerthan024">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Keerthan024&show_icons=true&locale=en&theme=dark&layout=compact" alt="Keerthan024">
+</a>
