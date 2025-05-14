@@ -36,10 +36,6 @@
 
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
 <h3 align-"left">🔥My Stats</h3>
 <p align="center">
   <a href="https://github.com/Keerthan024">
@@ -60,3 +56,7 @@
 <a href="https://github.com/Keerthan024">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Keerthan024&show_icons=true&locale=en&theme=dark&layout=compact" alt="Keerthan024">
 </a>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
