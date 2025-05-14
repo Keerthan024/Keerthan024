@@ -36,6 +36,10 @@
 
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 <h3 align-"left">🔥My Stats</h3>
 <p align="center">
   <a href="https://github.com/Keerthan024">
