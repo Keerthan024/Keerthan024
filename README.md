@@ -1,30 +1,45 @@
 <html>
   <body>
     <h1 align="center">Hi 👋 I am Keerthan A</h1>
-    <h3 align="center">I am an aspiring student from India interested in Artificial Intelligence and Full Stack Web development</h3>
+    <h3 align="center">I am an aspiring student from India interested in Data Visualization and Full Stack Web development</h3>
     <p align="center"> <a href="https://www.linkedin.com/in/keerthan0024/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Keerthan" /></a> </p>
 
 - 🪴 I’m currently learning ♦️ Somthing Cool ♦️
 
-- 🗨️ Ask me about ♦️ Full Stack Web Development | Artificial Intelligence ♦️
+- 🗨️ Ask me about ♦️ Full Stack Web Development | Data Visualization ♦️
 
 - 📫 Reach me at keerthancontact@gmail.com
 
 - 💡 Drink a lot of water ♦️ Hydration check ♦️
-<h3 align-"left">📜Languages and frameworks</h3>
+- ## 🚀 Tech Stack
 
+### 🎨 Frontend
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Keerthan024)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Keerthan024)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Keerthan024)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Keerthan024)
+[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://github.com/Keerthan024)
+[![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/Keerthan024)
+
+### ⚙️ Backend
+[![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Keerthan024)
+[![Express.js](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express&logoColor=white)](https://github.com/Keerthan024)
+
+### 🗄️ Databases
+[![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Keerthan024)
+[![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://github.com/Keerthan024)
+[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/Keerthan024)
+[![NoSQL](https://img.shields.io/badge/NoSQL-black?style=for-the-badge&logo=mongodb)](https://github.com/Keerthan024)
+
+### 💻 Programming Languages
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Keerthan024)
+[![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)](https://github.com/Keerthan024)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c%2B%2B)](https://github.com/Keerthan024)
 [![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)](https://github.com/Keerthan024)
-[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://github.com/Keerthan024)
-[![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Keerthan024)
-[![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Keerthan024)
-[![NoSQL](https://img.shields.io/badge/NoSQL-black?style=for-the-badge&logo=mongodb)](https://github.com/Keerthan024)
-[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/Keerthan024)
-[![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/Keerthan024)
+
+### 🛠️ Tools & Platforms
+[![Power BI](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=powerbi)](https://github.com/Keerthan024)
+[![DevExpress](https://img.shields.io/badge/DevExpress-black?style=for-the-badge&logo=devexpress)](https://github.com/Keerthan024)
+
 <h3 align-"left">⚒️ Building my skills on</h3>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/PmfY2qFRT6/)
